@@ -12,18 +12,22 @@ What You’ll Find Here
 This site contains my writeups, notes, and walkthroughs from:
 - 🧪 TryHackMe labs
 
+Journal
+|----------|
+[My journal](./journal/index.md)
+
+
 ## 📚 My Lab Writeups
 
 | Lab | Topic | Link |
 |-----|-------|------|
-| Basic Pentesting | Enumeration, SSH brute force | [Read](./tryhackme-basic-pentesting.md) |
-| OWASP SQL Injection | SQLi basics | [Read](./portswigger-sql-injection.md) |
-| Web Scanning | Using Nikto & Nmap | Coming soon |
+| Introduction to Pentesting | Pentesting fundamentals, principles of security | [Read](./labs/index.mdd) |
+
 
 ---
 
 ## 🧑‍💻 Connect With Me
-- 💼 [GitHub Profile](https://github.com/YOUR_USERNAME)
-- 📧 Email: your.email@example.com
+- 💼 [GitHub Profile](https://github.com/brooklyn5991)
+- 📧 Email: brooklynoke1@gmail.com
 - 🧠 Still learning every day. This blog will keep growing!
 

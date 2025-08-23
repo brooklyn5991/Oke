@@ -1,6 +1,6 @@
 WEEK 1
 I Completed Introduction to Pentesting
-    1. Pentesting Fundamentals
+    Lesson 1. Pentesting Fundamentals
         LAB - [ACME Penetration Test](./labs/ACME-Penetration-Test.md) – ACME-Penetration-Test
         Task 1
         What is Penetration Testing?
