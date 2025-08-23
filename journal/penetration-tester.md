@@ -2,14 +2,8 @@ WEEK 1
 I Completed Introduction to Pentesting
     Lesson 1. Pentesting Fundamentals
         LAB - [ACME Penetration Test](./labs/ACME-Penetration-Test.md) – ACME-Penetration-Test
-        Task 1
-        What is Penetration Testing?
-        Task 2
-        Penetration Testing Ethics
-        Task 3
-        Penetration Testing Methodologies
-        Task 4
-        Black box, White box, Grey box Penetration Testing
-        Task 5
-        Practical: ACME Penetration Test
-    2. 
+        1. What is Penetration Testing?
+        2. Penetration Testing Ethics
+        3. Penetration Testing Methodologies
+        4. Black box, White box, Grey box Penetration Testing
+        5. Practical: ACME Penetration Test
