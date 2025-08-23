@@ -19,9 +19,9 @@ Journal
 
 ## 📚 My Lab Writeups
 
-| Lab | Topic | Link |
-|-----|-------|------|
-| Introduction to Pentesting | Pentesting fundamentals, principles of security | [Read](./labs/index.mdd) |
+| Lab  | Link |
+|------|------|
+| My Labs| [Read](./labs/index.md) |
 
 
 ---
