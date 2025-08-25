@@ -1,4 +1,4 @@
-# 🧪 Labs
+#  Labs I worked with
 
 Here are my hands-on lab writeups from TryHackMe.
 

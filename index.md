@@ -10,7 +10,7 @@ My Goal is to become one of the best in the world at:
 
 What You’ll Find Here
 This site contains my writeups, notes, and walkthroughs from:
-- 🧪 TryHackMe labs
+-  TryHackMe labs
 
 Journal
 |----------|
@@ -26,8 +26,8 @@ Journal
 
 ---
 
-## 🧑‍💻 Connect With Me
-- 💼 [GitHub Profile](https://github.com/brooklyn5991)
-- 📧 Email: brooklynoke1@gmail.com
-- 🧠 Still learning every day. This blog will keep growing!
+##  Connect With Me
+-  [GitHub Profile](https://github.com/brooklyn5991)
+-  Email: brooklynoke1@gmail.com
+-  Still learning every day. This blog will keep growing!
 

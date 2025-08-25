@@ -1,8 +1,8 @@
-#  Learning Journal
+#  My Learning Journal
 
 This is where I log my progress.
 
-## Entries
+## My Entries
 - [Jr Penetration Tester](./penetration-tester.md)
 
 

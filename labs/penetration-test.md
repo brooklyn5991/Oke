@@ -1,14 +1,14 @@
 
-# 🧪 Lab: Penetration Testing Stages
+#  Lab: Penetration Testing Stages
 
-## 📌 Overview
+##  Overview
 - **Platform:** TryHackMe  
 - **Difficulty:** Beginner  
 - **Goal:** Understand the stages of a penetration test and their importance.  
 
 ---
 
-## 🔍 Stages of a Penetration Test
+##  Stages of a Penetration Test
 
 ### 1. Rules of Engagement
 - Legal agreement signed between client and tester.  
@@ -60,7 +60,7 @@
 
 ---
 
-## 📚 Key Learnings
+##  Key Learnings
 - Rules of engagement keep pentesting **legal & ethical**.  
 - OSINT can reveal **critical attack paths**.  
 - Enumeration is the foundation for exploitation.  
